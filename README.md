@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=saagnik-mondal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saagnik-mondal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://nirzak-streak-stats.vercel.app/?user=saagnik-mondal&theme=dark&hide_border=false)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=saagnik-mondal&theme=dark)](https://git.io/streak-stats)<br/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=saagnik-mondal&icon=0&color=0)](https://visitcount.itsvg.in)
