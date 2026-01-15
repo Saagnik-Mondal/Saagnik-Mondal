@@ -9,6 +9,14 @@ I am actively seeking internship opportunities to contribute to innovative AI so
 - Developing advanced **Deep Learning models** for predictive analysis.
 - Exploring **Generative AI** and its applications in automation.
 - Building strong fundamentals in data pipelines and algorithmic problem-solving.
+
+### 🛠️ Technical Stack
+
+- **Languages**: Python, C++, SQL
+- **Machine Learning**: PyTorch, TensorFlow, Scikit-learn, Pandas, NumPy
+- **Data Engineering**: Apache Spark, Hadoop
+- **Tools & Platforms**: Git, Docker, Linux, Jupyter
+- **Areas of Interest**: Large Language Models (LLMs), Generative AI, Computer Vision, Reinforcement Learning
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=saagnik-mondal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saagnik-mondal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
