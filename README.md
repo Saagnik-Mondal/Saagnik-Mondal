@@ -17,9 +17,21 @@ I am actively seeking internship opportunities to contribute to innovative AI so
 - **Data Engineering**: Apache Spark, Hadoop
 - **Tools & Platforms**: Git, Docker, Linux, Jupyter
 - **Areas of Interest**: Large Language Models (LLMs), Generative AI, Computer Vision, Reinforcement Learning
-# 📊 GitHub Stats:
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=saagnik-mondal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saagnik-mondal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-[![GitHub Streak](https://streak-stats.demolab.com?user=saagnik-mondal&theme=dark)](https://git.io/streak-stats)<br/>
+### 📈 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/saagnik-mondal">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saagnik-mondal&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saagnik-mondal&layout=compact&theme=dark&hide_border=true" />
+</a>
+
+<br/>
+
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=saagnik-mondal&theme=dark&hide_border=true&hide_total_contributions=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</a>
+
+</div>
 
 ---
